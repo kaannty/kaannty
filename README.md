@@ -1,8 +1,8 @@
 [![MasterHead](http://2.bp.blogspot.com/-kpqcRommM2U/UPATL8vfCZI/AAAAAAAAPUM/5gLOQgni2_4/s1600/banner_kurtlarvadisi.png)
-<h1 align="center">Hi 👋, I'm Kaan</h1>
+<h1 align="center">Hi 👋, I'm Kaan Talha Yıldız</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
-- 🔭 I’m currently working on [PLASTIC INJECTION MOLD PRICING SYSTEM](VERY SOON)
+- I’m currently working on [PLASTIC INJECTION MOLD PRICING SYSTEM](VERY SOON)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
