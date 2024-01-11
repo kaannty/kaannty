@@ -1,4 +1,4 @@
-[![MasterHead](https://iatkv.tmgrup.com.tr/2b5ecc/0/0/0/0/640/360?u=https%3a%2f%2fitkv.tmgrup.com.tr%2f2020%2f07%2f06%2fkurtlar-vadisinin-unutulmaz-karakterleri-efsaneye-boyle-dahil-oldular-boyle-olduler-1594051198165.jpg&mw=616)
+[![MasterHead](https://iatkv.tmgrup.com.tr/306c2e/616/321/0/0/800/416?u=https%3a%2f%2fitkv.tmgrup.com.tr%2f2020%2f07%2f06%2fkurtlar-vadisinin-unutulmaz-karakterleri-efsaneye-boyle-daha-oldular-boyle-olduler-1594050718495.jpg)
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate frontend developer from TurkiyeI’m looking to collaborate on</h3>
 
