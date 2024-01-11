@@ -1,6 +1,6 @@
 [![MasterHead](http://2.bp.blogspot.com/-kpqcRommM2U/UPATL8vfCZI/AAAAAAAAPUM/5gLOQgni2_4/s1600/banner_kurtlarvadisi.png)
 <h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">A passionate frontend developer from TurkiyeI’m looking to collaborate on</h3>
+<h3 align="center">A passionate frontend developer from Turkiye</h3>
 
 - 🔭 I’m currently working on [PLASTIC INJECTION MOLD PRICING SYSTEM](VERY SOON)
 
