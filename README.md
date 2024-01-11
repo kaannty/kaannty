@@ -1,4 +1,4 @@
-[![MasterHead](https://iatkv.tmgrup.com.tr/306c2e/616/321/0/0/800/416?u=https%3a%2f%2fitkv.tmgrup.com.tr%2f2020%2f07%2f06%2fkurtlar-vadisinin-unutulmaz-karakterleri-efsaneye-boyle-daha-oldular-boyle-olduler-1594050718495.jpg)
+[![MasterHead](http://2.bp.blogspot.com/-kpqcRommM2U/UPATL8vfCZI/AAAAAAAAPUM/5gLOQgni2_4/s1600/banner_kurtlarvadisi.png)
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate frontend developer from TurkiyeI’m looking to collaborate on</h3>
 
